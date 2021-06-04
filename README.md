@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on fartblox
+- 🌱 I’m currently learning vue.js
+- 📫 How to reach me: Discord, skill#1685
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 90% of my repos are private.
 
 <!--
 **ProjecterN1N3/ProjecterN1N3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
