@@ -5,4 +5,4 @@
 <h3 align="left">What I'm working on:</h3>
 <img src="https://media.discordapp.net/attachments/841391088043819028/850701065124708352/fblogo.png" alt="fartblox" width="40" height="40"/> </p>
 <h3 align="left">Cool stuff everyone has in their profile or something:</h3>
-<img src="https://forthebadge.com/images/badges/oooo-kill-em.svg" </p>
+<img src="https://forthebadge.com/images/badges/oooo-kill-em.svg" </p> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" </p> <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" </p>
