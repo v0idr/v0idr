@@ -12,3 +12,9 @@
 <img src="https://media.discordapp.net/attachments/841391088043819028/850701065124708352/fblogo.png" alt="fartblox" width="40" height="40"/> </p>
 <h3 align="left">Cool stuff everyone has in their profile or something:</h3>
 <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg" </p> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" </p> <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=projectern1n3&show_icons=true&locale=en&layout=compact" alt="projectern1n3" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=projectern1n3&show_icons=true&locale=en" alt="projectern1n3" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=projectern1n3&" alt="projectern1n3" /></p>
