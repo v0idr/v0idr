@@ -3,4 +3,4 @@
 
 
 
-![Statistics](https://github.com/ProjecterN1N3/ProjecterN1N3/blob/master/github-metrics.svg)
+![Statistics](https://github.com/ProjecterN1N3/ProjecterN1N3/blob/main/github-metrics.svg)
