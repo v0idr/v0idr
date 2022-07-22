@@ -8,16 +8,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uio9233HD2tB7fsNb3/giphy.gif" width="250"/>
 </div>
-<img src="https://forthebadge.com/images/badges/built-with-swag.svg"> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"> <img src="https://forthebadge.com/images/badges/built-by-crips.svg">
   <div id="header" align="center">
     <p>I'm coding with:</p>
       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Cplusplus' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=153EBA&color=322F2F'/></a>
-      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/></a>
       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/></a>
-      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Typescript' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/></a>
-      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/></a>
       <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white'/></a>
+      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/></a>    
+      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/></a>
+      <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Typescript' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/></a>
 
 </head>
 <body>
