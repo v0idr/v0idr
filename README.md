@@ -3,4 +3,4 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uio9233HD2tB7fsNb3/giphy.gif" width="250"/>
 </div>
-<img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="100"/>
+<img src="https://forthebadge.com/images/badges/built-with-swag.svg">
